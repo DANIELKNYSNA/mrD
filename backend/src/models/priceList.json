@@ -1,0 +1,146 @@
+{
+  "itm-001": {
+    "price": 109.9,
+    "prepMinutes": 15
+  },
+  "itm-002": {
+    "price": 139.9,
+    "prepMinutes": 15
+  },
+  "itm-003": {
+    "price": 144.9,
+    "prepMinutes": 16
+  },
+  "itm-004": {
+    "price": 129.9,
+    "prepMinutes": 16
+  },
+  "itm-005": {
+    "price": 134.9,
+    "prepMinutes": 15
+  },
+  "itm-006": {
+    "price": 99.9,
+    "prepMinutes": 12
+  },
+  "itm-007": {
+    "price": 89.9,
+    "prepMinutes": 12
+  },
+  "itm-008": {
+    "price": 109.9,
+    "prepMinutes": 13
+  },
+  "itm-009": {
+    "price": 104.9,
+    "prepMinutes": 12
+  },
+  "itm-010": {
+    "price": 124.9,
+    "prepMinutes": 13
+  },
+  "itm-011": {
+    "price": 189.9,
+    "prepMinutes": 20
+  },
+  "itm-012": {
+    "price": 99.9,
+    "prepMinutes": 18
+  },
+  "itm-013": {
+    "price": 119.9,
+    "prepMinutes": 18
+  },
+  "itm-014": {
+    "price": 94.9,
+    "prepMinutes": 17
+  },
+  "itm-015": {
+    "price": 159.9,
+    "prepMinutes": 20
+  },
+  "itm-016": {
+    "price": 189.9,
+    "prepMinutes": 14
+  },
+  "itm-017": {
+    "price": 119.9,
+    "prepMinutes": 18
+  },
+  "itm-018": {
+    "price": 109.9,
+    "prepMinutes": 14
+  },
+  "itm-019": {
+    "price": 79.9,
+    "prepMinutes": 12
+  },
+  "itm-020": {
+    "price": 74.9,
+    "prepMinutes": 10
+  },
+  "itm-021": {
+    "price": 79.9,
+    "prepMinutes": 8
+  },
+  "itm-022": {
+    "price": 119.9,
+    "prepMinutes": 10
+  },
+  "itm-023": {
+    "price": 109.9,
+    "prepMinutes": 10
+  },
+  "itm-024": {
+    "price": 89.9,
+    "prepMinutes": 7
+  },
+  "itm-025": {
+    "price": 49.9,
+    "prepMinutes": 5
+  },
+  "itm-026": {
+    "price": 59.9,
+    "prepMinutes": 5
+  },
+  "itm-027": {
+    "price": 39.9,
+    "prepMinutes": 4
+  },
+  "itm-028": {
+    "price": 79.9,
+    "prepMinutes": 5
+  },
+  "itm-029": {
+    "price": 32.9,
+    "prepMinutes": 2
+  },
+  "itm-030": {
+    "price": 39.9,
+    "prepMinutes": 4
+  },
+  "itm-031": {
+    "price": 44.9,
+    "prepMinutes": 5
+  },
+  "itm-032": {
+    "price": 49.9,
+    "prepMinutes": 5
+  },
+  "itm-033": {
+    "price": 36.99,
+    "prepMinutes": 3
+  },
+  "itm-034": {
+    "price": 19.99,
+    "prepMinutes": 3
+  },
+  "itm-035": {
+    "price": 74.99,
+    "prepMinutes": 3
+  },
+  "itm-036": {
+    "price": 24.99,
+    "prepMinutes": 3
+  }
+}

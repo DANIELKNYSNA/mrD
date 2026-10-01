@@ -1,0 +1,400 @@
+[
+  {
+    "id": "itm-001",
+    "name": "Classic Margherita Pizza",
+    "category": "Pizza",
+    "description": "Tomato, mozzarella and fresh basil on a thin crust.",
+    "tags": [
+      "vegetarian",
+      "italian"
+    ],
+    "popularity": 92
+  },
+  {
+    "id": "itm-002",
+    "name": "Pepperoni Feast Pizza",
+    "category": "Pizza",
+    "description": "Loaded with double pepperoni and mozzarella.",
+    "tags": [
+      "pork",
+      "italian"
+    ],
+    "popularity": 95
+  },
+  {
+    "id": "itm-003",
+    "name": "BBQ Chicken Pizza",
+    "category": "Pizza",
+    "description": "Smoky BBQ base, grilled chicken, red onion and peppers.",
+    "tags": [
+      "chicken",
+      "italian"
+    ],
+    "popularity": 84
+  },
+  {
+    "id": "itm-004",
+    "name": "Vegan Garden Pizza",
+    "category": "Pizza",
+    "description": "Plant-based cheese, mushrooms, olives, peppers and spinach.",
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "italian"
+    ],
+    "popularity": 61
+  },
+  {
+    "id": "itm-005",
+    "name": "Four Cheese Pizza",
+    "category": "Pizza",
+    "description": "Mozzarella, gorgonzola, parmesan and feta.",
+    "tags": [
+      "vegetarian",
+      "italian"
+    ],
+    "popularity": 70
+  },
+  {
+    "id": "itm-006",
+    "name": "Double Cheeseburger",
+    "category": "Burgers",
+    "description": "Two beef patties, cheddar, pickles and house sauce.",
+    "tags": [
+      "beef"
+    ],
+    "popularity": 88
+  },
+  {
+    "id": "itm-007",
+    "name": "Crispy Chicken Burger",
+    "category": "Burgers",
+    "description": "Buttermilk-fried chicken breast with slaw and mayo.",
+    "tags": [
+      "chicken"
+    ],
+    "popularity": 83
+  },
+  {
+    "id": "itm-008",
+    "name": "Mushroom Swiss Burger",
+    "category": "Burgers",
+    "description": "Beef patty, sautéed mushrooms and Swiss cheese.",
+    "tags": [
+      "beef"
+    ],
+    "popularity": 66
+  },
+  {
+    "id": "itm-009",
+    "name": "Plant-Based Burger",
+    "category": "Burgers",
+    "description": "Plant patty, vegan cheese, lettuce and tomato.",
+    "tags": [
+      "vegan",
+      "vegetarian"
+    ],
+    "popularity": 58
+  },
+  {
+    "id": "itm-010",
+    "name": "Bacon Avocado Burger",
+    "category": "Burgers",
+    "description": "Beef patty, streaky bacon, smashed avocado and aioli.",
+    "tags": [
+      "beef",
+      "pork"
+    ],
+    "popularity": 79
+  },
+  {
+    "id": "itm-011",
+    "name": "Salmon Sushi Platter",
+    "category": "Sushi",
+    "description": "Twelve pieces of salmon nigiri and maki.",
+    "tags": [
+      "fish",
+      "japanese"
+    ],
+    "popularity": 75
+  },
+  {
+    "id": "itm-012",
+    "name": "California Rolls (8 pieces)",
+    "category": "Sushi",
+    "description": "Crab stick, avocado and cucumber rolled in sesame.",
+    "tags": [
+      "seafood",
+      "japanese"
+    ],
+    "popularity": 81
+  },
+  {
+    "id": "itm-013",
+    "name": "Prawn Tempura Roll",
+    "category": "Sushi",
+    "description": "Crispy prawn tempura with spicy mayo.",
+    "tags": [
+      "seafood",
+      "japanese",
+      "spicy"
+    ],
+    "popularity": 77
+  },
+  {
+    "id": "itm-014",
+    "name": "Vegetarian Sushi Combo",
+    "category": "Sushi",
+    "description": "Cucumber, avocado and pickled radish maki.",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "japanese"
+    ],
+    "popularity": 49
+  },
+  {
+    "id": "itm-015",
+    "name": "Rainbow Roll",
+    "category": "Sushi",
+    "description": "California roll topped with salmon, tuna and avocado.",
+    "tags": [
+      "fish",
+      "seafood",
+      "japanese"
+    ],
+    "popularity": 68
+  },
+  {
+    "id": "itm-016",
+    "name": "8-Piece Fried Chicken Bucket",
+    "category": "Chicken",
+    "description": "Crispy fried chicken pieces, perfect for sharing.",
+    "tags": [
+      "chicken",
+      "sharing"
+    ],
+    "popularity": 93
+  },
+  {
+    "id": "itm-017",
+    "name": "Peri-Peri Half Chicken",
+    "category": "Chicken",
+    "description": "Flame-grilled half chicken basted in hot peri-peri.",
+    "tags": [
+      "chicken",
+      "spicy",
+      "grilled"
+    ],
+    "popularity": 90
+  },
+  {
+    "id": "itm-018",
+    "name": "Chicken Wings (12)",
+    "category": "Chicken",
+    "description": "Sticky BBQ wings with ranch dip.",
+    "tags": [
+      "chicken",
+      "sharing"
+    ],
+    "popularity": 80
+  },
+  {
+    "id": "itm-019",
+    "name": "Chicken Strips & Chips",
+    "category": "Chicken",
+    "description": "Five crumbed chicken strips with seasoned chips.",
+    "tags": [
+      "chicken"
+    ],
+    "popularity": 72
+  },
+  {
+    "id": "itm-020",
+    "name": "Grilled Chicken Wrap",
+    "category": "Chicken",
+    "description": "Grilled chicken, lettuce, tomato and peri-mayo in a tortilla.",
+    "tags": [
+      "chicken",
+      "grilled"
+    ],
+    "popularity": 64
+  },
+  {
+    "id": "itm-021",
+    "name": "Greek Salad",
+    "category": "Healthy",
+    "description": "Cucumber, tomato, olives, red onion and feta.",
+    "tags": [
+      "vegetarian",
+      "salad"
+    ],
+    "popularity": 57
+  },
+  {
+    "id": "itm-022",
+    "name": "Chicken Poke Bowl",
+    "category": "Healthy",
+    "description": "Teriyaki chicken, rice, edamame, avocado and sesame.",
+    "tags": [
+      "chicken",
+      "bowl"
+    ],
+    "popularity": 69
+  },
+  {
+    "id": "itm-023",
+    "name": "Quinoa Buddha Bowl",
+    "category": "Healthy",
+    "description": "Quinoa, roasted veg, chickpeas and tahini dressing.",
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "bowl"
+    ],
+    "popularity": 52
+  },
+  {
+    "id": "itm-024",
+    "name": "Acai Smoothie Bowl",
+    "category": "Healthy",
+    "description": "Acai, banana, granola and fresh berries.",
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "breakfast"
+    ],
+    "popularity": 60
+  },
+  {
+    "id": "itm-025",
+    "name": "Chocolate Brownie",
+    "category": "Desserts",
+    "description": "Warm fudgy brownie with chocolate sauce.",
+    "tags": [
+      "vegetarian",
+      "chocolate"
+    ],
+    "popularity": 78
+  },
+  {
+    "id": "itm-026",
+    "name": "New York Cheesecake",
+    "category": "Desserts",
+    "description": "Baked vanilla cheesecake with a biscuit base.",
+    "tags": [
+      "vegetarian"
+    ],
+    "popularity": 71
+  },
+  {
+    "id": "itm-027",
+    "name": "Soft Serve Sundae",
+    "category": "Desserts",
+    "description": "Vanilla soft serve with caramel and nuts.",
+    "tags": [
+      "vegetarian",
+      "ice cream"
+    ],
+    "popularity": 74
+  },
+  {
+    "id": "itm-028",
+    "name": "Glazed Doughnuts (6)",
+    "category": "Desserts",
+    "description": "Six classic glazed doughnuts.",
+    "tags": [
+      "vegetarian",
+      "sharing"
+    ],
+    "popularity": 63
+  },
+  {
+    "id": "itm-029",
+    "name": "Coca-Cola 2L",
+    "category": "Beverages",
+    "description": "Ice-cold Coca-Cola, 2 litre bottle.",
+    "tags": [
+      "soft drink",
+      "sharing"
+    ],
+    "popularity": 86
+  },
+  {
+    "id": "itm-030",
+    "name": "Fresh Orange Juice",
+    "category": "Beverages",
+    "description": "Freshly squeezed orange juice, 500ml.",
+    "tags": [
+      "juice",
+      "vegan"
+    ],
+    "popularity": 55
+  },
+  {
+    "id": "itm-031",
+    "name": "Iced Coffee",
+    "category": "Beverages",
+    "description": "Double-shot espresso over ice with milk.",
+    "tags": [
+      "coffee"
+    ],
+    "popularity": 67
+  },
+  {
+    "id": "itm-032",
+    "name": "Strawberry Milkshake",
+    "category": "Beverages",
+    "description": "Thick strawberry milkshake topped with cream.",
+    "tags": [
+      "vegetarian",
+      "ice cream"
+    ],
+    "popularity": 62
+  },
+  {
+    "id": "itm-033",
+    "name": "Full Cream Milk 2L",
+    "category": "Groceries",
+    "description": "Fresh full cream milk, 2 litre.",
+    "tags": [
+      "dairy",
+      "essentials"
+    ],
+    "popularity": 82
+  },
+  {
+    "id": "itm-034",
+    "name": "White Bread Loaf",
+    "category": "Groceries",
+    "description": "Freshly baked sliced white bread, 700g.",
+    "tags": [
+      "bakery",
+      "essentials"
+    ],
+    "popularity": 76
+  },
+  {
+    "id": "itm-035",
+    "name": "Free-Range Eggs (18)",
+    "category": "Groceries",
+    "description": "Eighteen large free-range eggs.",
+    "tags": [
+      "dairy",
+      "essentials",
+      "breakfast"
+    ],
+    "popularity": 73
+  },
+  {
+    "id": "itm-036",
+    "name": "Bananas (1kg)",
+    "category": "Groceries",
+    "description": "Ripe bananas, approximately 1kg.",
+    "tags": [
+      "fruit",
+      "vegan"
+    ],
+    "popularity": 65
+  }
+]
